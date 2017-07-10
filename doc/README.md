@@ -8,7 +8,7 @@
  
 - All communications and authentications are directly between your browser and Google Drive.
 
-- The extension could only access those Google Drive files that are created by the it. 
+- The extension could only access those Google Drive files that are created by it. 
 
 - An offline Google Drive token would be collected to avoid logging in every time the Gmail is opened. But you could disconnect (revoke the token) any time.
 
